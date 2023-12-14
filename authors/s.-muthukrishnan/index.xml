@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S. Muthukrishnan on </title>
-    <link>https://people.csail.mit.edu/vibhaa/authors/s.-muthukrishnan/</link>
+    <link>https://vibhaa.github.io/authors/s.-muthukrishnan/</link>
     <description>Recent content in S. Muthukrishnan on </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.csail.mit.edu/vibhaa/authors/s.-muthukrishnan/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://vibhaa.github.io/authors/s.-muthukrishnan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Heavy-Hitter Detection Entirely in the Data Plane</title>
-      <link>https://people.csail.mit.edu/vibhaa/publication/hashpipe/</link>
+      <link>https://vibhaa.github.io/publication/hashpipe/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/publication/hashpipe/</guid>
+      <guid>https://vibhaa.github.io/publication/hashpipe/</guid>
       <description></description>
     </item>
     

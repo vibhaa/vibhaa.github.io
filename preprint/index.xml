@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pre-prints on </title>
-    <link>https://people.csail.mit.edu/vibhaa/preprint/</link>
+    <link>https://vibhaa.github.io/preprint/</link>
     <description>Recent content in Pre-prints on </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.csail.mit.edu/vibhaa/preprint/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://vibhaa.github.io/preprint/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Multi-Resolution Multi-Reference Talking Head Synthesis via Implicit Warping</title>
-      <link>https://people.csail.mit.edu/vibhaa/preprint/gemino_attn/</link>
+      <link>https://vibhaa.github.io/preprint/gemino_attn/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/preprint/gemino_attn/</guid>
+      <guid>https://vibhaa.github.io/preprint/gemino_attn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vidaptive: Efficient and Responsive Rate Control for Real-Time Video on Variable Networks</title>
-      <link>https://people.csail.mit.edu/vibhaa/preprint/vidaptive/</link>
+      <link>https://vibhaa.github.io/preprint/vidaptive/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/preprint/vidaptive/</guid>
+      <guid>https://vibhaa.github.io/preprint/vidaptive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reparo: Loss-Resilient Generative Codec for Video Conferencing</title>
-      <link>https://people.csail.mit.edu/vibhaa/preprint/reparo/</link>
+      <link>https://vibhaa.github.io/preprint/reparo/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/preprint/reparo/</guid>
+      <guid>https://vibhaa.github.io/preprint/reparo/</guid>
       <description></description>
     </item>
     

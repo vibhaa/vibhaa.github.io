@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weizhao Tang on </title>
-    <link>https://people.csail.mit.edu/vibhaa/authors/weizhao-tang/</link>
+    <link>https://vibhaa.github.io/authors/weizhao-tang/</link>
     <description>Recent content in Weizhao Tang on </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.csail.mit.edu/vibhaa/authors/weizhao-tang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://vibhaa.github.io/authors/weizhao-tang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Effect of Network Topology on Credit Network Throughput</title>
-      <link>https://people.csail.mit.edu/vibhaa/publication/topo_design/</link>
+      <link>https://vibhaa.github.io/publication/topo_design/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/publication/topo_design/</guid>
+      <guid>https://vibhaa.github.io/publication/topo_design/</guid>
       <description></description>
     </item>
     

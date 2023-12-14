@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mehrdad Khani on </title>
-    <link>https://people.csail.mit.edu/vibhaa/authors/mehrdad-khani/</link>
+    <link>https://vibhaa.github.io/authors/mehrdad-khani/</link>
     <description>Recent content in Mehrdad Khani on </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.csail.mit.edu/vibhaa/authors/mehrdad-khani/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://vibhaa.github.io/authors/mehrdad-khani/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gemino: Practical and Robust Neural Compression for Video Conferencing</title>
-      <link>https://people.csail.mit.edu/vibhaa/publication/gemino/</link>
+      <link>https://vibhaa.github.io/publication/gemino/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/publication/gemino/</guid>
+      <guid>https://vibhaa.github.io/publication/gemino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Video Compression via Content-Adaptive Super-Resolution</title>
-      <link>https://people.csail.mit.edu/vibhaa/publication/srvc/</link>
+      <link>https://vibhaa.github.io/publication/srvc/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/publication/srvc/</guid>
+      <guid>https://vibhaa.github.io/publication/srvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-End Transport for Video QOE Fairness</title>
-      <link>https://people.csail.mit.edu/vibhaa/publication/minerva/</link>
+      <link>https://vibhaa.github.io/publication/minerva/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/publication/minerva/</guid>
+      <guid>https://vibhaa.github.io/publication/minerva/</guid>
       <description></description>
     </item>
     

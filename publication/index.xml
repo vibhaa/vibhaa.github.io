@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on </title>
-    <link>https://people.csail.mit.edu/vibhaa/publication/</link>
+    <link>https://vibhaa.github.io/publication/</link>
     <description>Recent content in Publications on </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://people.csail.mit.edu/vibhaa/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://vibhaa.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gemino: Practical and Robust Neural Compression for Video Conferencing</title>
-      <link>https://people.csail.mit.edu/vibhaa/publication/gemino/</link>
+      <link>https://vibhaa.github.io/publication/gemino/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/publication/gemino/</guid>
+      <guid>https://vibhaa.github.io/publication/gemino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effect of Network Topology on Credit Network Throughput</title>
-      <link>https://people.csail.mit.edu/vibhaa/publication/topo_design/</link>
+      <link>https://vibhaa.github.io/publication/topo_design/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/publication/topo_design/</guid>
+      <guid>https://vibhaa.github.io/publication/topo_design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Video Compression via Content-Adaptive Super-Resolution</title>
-      <link>https://people.csail.mit.edu/vibhaa/publication/srvc/</link>
+      <link>https://vibhaa.github.io/publication/srvc/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/publication/srvc/</guid>
+      <guid>https://vibhaa.github.io/publication/srvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High Throughput Cryptocurrency Routing in Payment Channel Networks</title>
-      <link>https://people.csail.mit.edu/vibhaa/publication/spider_nsdi/</link>
+      <link>https://vibhaa.github.io/publication/spider_nsdi/</link>
       <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/publication/spider_nsdi/</guid>
+      <guid>https://vibhaa.github.io/publication/spider_nsdi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-End Transport for Video QOE Fairness</title>
-      <link>https://people.csail.mit.edu/vibhaa/publication/minerva/</link>
+      <link>https://vibhaa.github.io/publication/minerva/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/publication/minerva/</guid>
+      <guid>https://vibhaa.github.io/publication/minerva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Routing Cryptocurrency with the Spider Network</title>
-      <link>https://people.csail.mit.edu/vibhaa/publication/spider/</link>
+      <link>https://vibhaa.github.io/publication/spider/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/publication/spider/</guid>
+      <guid>https://vibhaa.github.io/publication/spider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heavy-Hitter Detection Entirely in the Data Plane</title>
-      <link>https://people.csail.mit.edu/vibhaa/publication/hashpipe/</link>
+      <link>https://vibhaa.github.io/publication/hashpipe/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://people.csail.mit.edu/vibhaa/publication/hashpipe/</guid>
+      <guid>https://vibhaa.github.io/publication/hashpipe/</guid>
       <description></description>
     </item>
     
