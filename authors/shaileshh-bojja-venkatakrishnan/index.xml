@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaileshh Bojja Venkatakrishnan on </title>
+    <link>https://people.csail.mit.edu/vibhaa/authors/shaileshh-bojja-venkatakrishnan/</link>
+    <description>Recent content in Shaileshh Bojja Venkatakrishnan on </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://people.csail.mit.edu/vibhaa/authors/shaileshh-bojja-venkatakrishnan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Effect of Network Topology on Credit Network Throughput</title>
+      <link>https://people.csail.mit.edu/vibhaa/publication/topo_design/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/vibhaa/publication/topo_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Throughput Cryptocurrency Routing in Payment Channel Networks</title>
+      <link>https://people.csail.mit.edu/vibhaa/publication/spider_nsdi/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/vibhaa/publication/spider_nsdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routing Cryptocurrency with the Spider Network</title>
+      <link>https://people.csail.mit.edu/vibhaa/publication/spider/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/vibhaa/publication/spider/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
