@@ -278,15 +278,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vibhaa.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am Vibhaalakshmi (Vibhaa) Sivaraman, a Ph.D. student in the Networking and Mobile Systems Group
+      <description>&lt;p&gt;I recently recently graduated with a Ph.D. from MIT where I was a researcher in the Networking and Mobile Systems Group
 within the Computer Science and Artificial Intelligence Laboratory
-&lt;a href=&#34;https://www.csail.mit.edu/&#34;&gt; (CSAIL) &lt;/a&gt; at MIT.
-I am advised by Professor &lt;a href=&#34;https://people.csail.mit.edu/alizadeh/index.html&#34;&gt;Mohammad Alizadeh&lt;/a&gt;.
-My research interests lie broadly in computer networks, with a particular interest in algorithmic techniques.
+&lt;a href=&#34;https://www.csail.mit.edu/&#34;&gt; (CSAIL) &lt;/a&gt;.
+I was advised by Professor &lt;a href=&#34;https://people.csail.mit.edu/alizadeh/index.html&#34;&gt;Mohammad Alizadeh&lt;/a&gt;.
+My &lt;a href=&#34;https://vibhaa.github.io/files/vibhaa_thesis.pdf&#34;&gt; thesis&lt;/a&gt; focused on using computer vision techniques to improve video conferencing experience under low-bandwidth and lossy network conditions.
 In the past, I&amp;rsquo;ve worked on applying ideas from communication networks to payment channel networks
-to improve blockchain scalability, and network monitoring and heavy-hitter detection. More recently, I&amp;rsquo;ve been
-interested in improving video streaming and conferencing applications using
-advances in computer vision and video compression techniques.&lt;/p&gt;
+to improve blockchain scalability, and network monitoring and heavy-hitter detection.&lt;/p&gt;
+&lt;!--research interests lie broadly in computer networks, with a particular interest in algorithmic techniques.--&gt;
+&lt;!-- More recently, I&#39;ve been 
+interested in improving video streaming and conferencing applications using 
+advances in computer vision and video compression techniques. --&gt;
 &lt;p&gt;Previously, I received a B.S.E. in Computer Science from Princeton University where I worked with Professor &lt;a href=&#34;http://www.cs.princeton.edu/~jrex/&#34;&gt;Jennifer Rexford&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I am also trained in &lt;a href=&#34;#dance&#34;&gt;Bharatanatyam&lt;/a&gt;, a classical dance form from South India.&lt;/p&gt;
 </description>
