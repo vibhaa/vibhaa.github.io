@@ -278,12 +278,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vibhaa.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I recently graduated with a Ph.D. from MIT where I was a researcher in the Networking and Mobile Systems Group
-within the Computer Science and Artificial Intelligence Laboratory
-&lt;a href=&#34;https://www.csail.mit.edu/&#34;&gt; (CSAIL)&lt;/a&gt;.
-I was advised by Professor &lt;a href=&#34;https://people.csail.mit.edu/alizadeh/index.html&#34;&gt;Mohammad Alizadeh&lt;/a&gt;.
+      <description>&lt;p&gt;I work on browser agents and foundational models for the web in the &lt;a href=&#34;https://labs.amazon.science/&#34;&gt;Amazon AGI SF Lab&lt;/a&gt;. I was briefly at &lt;a href=&#34;https://www.adept.ai/&#34;&gt;Adept AI Labs&lt;/a&gt; before our team moved over to Amazon. Prior to that, I graduated with a Ph.D. from MIT Computer Science and Artificial Intelligence Laboratory
+&lt;a href=&#34;https://www.csail.mit.edu/&#34;&gt; (CSAIL)&lt;/a&gt; advised by Professor &lt;a href=&#34;https://people.csail.mit.edu/alizadeh/index.html&#34;&gt;Mohammad Alizadeh&lt;/a&gt;.
 My &lt;a href=&#34;https://vibhaa.github.io/files/vibhaa_thesis.pdf&#34;&gt; thesis&lt;/a&gt; focused on using computer vision techniques to improve video conferencing experience under low-bandwidth and lossy network conditions.
-In the past, I&amp;rsquo;ve worked on applying ideas from communication networks to payment channel networks
+I also worked on applying ideas from communication networks to payment channel networks
 to improve blockchain scalability, and network monitoring and heavy-hitter detection.&lt;/p&gt;
 &lt;!--research interests lie broadly in computer networks, with a particular interest in algorithmic techniques.--&gt;
 &lt;!-- More recently, I&#39;ve been 
