@@ -20,23 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Vidaptive: Efficient and Responsive Rate Control for Real-Time Video on Variable Networks</title>
-      <link>https://vibhaa.github.io/preprint/vidaptive/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vibhaa.github.io/preprint/vidaptive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reparo: Loss-Resilient Generative Codec for Video Conferencing</title>
-      <link>https://vibhaa.github.io/preprint/reparo/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vibhaa.github.io/preprint/reparo/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

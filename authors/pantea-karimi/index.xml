@@ -6,10 +6,28 @@
     <description>Recent content in Pantea Karimi on </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vibhaa.github.io/authors/pantea-karimi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reparo: Loss-Resilient Generative Codec for Video Conferencing</title>
+      <link>https://vibhaa.github.io/publication/reparo/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://vibhaa.github.io/publication/reparo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tight Loops, Smooth Streams: Responsive Congestion Control for Real-Time Video</title>
+      <link>https://vibhaa.github.io/publication/vidaptive/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://vibhaa.github.io/publication/vidaptive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gemino: Practical and Robust Neural Compression for Video Conferencing</title>
@@ -17,15 +35,6 @@
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://vibhaa.github.io/publication/gemino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vidaptive: Efficient and Responsive Rate Control for Real-Time Video on Variable Networks</title>
-      <link>https://vibhaa.github.io/preprint/vidaptive/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://vibhaa.github.io/preprint/vidaptive/</guid>
       <description></description>
     </item>
     
